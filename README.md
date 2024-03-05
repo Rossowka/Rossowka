@@ -2,13 +2,16 @@
 
 Welcome to my page!
 
-🔭 I’m currently working on personal web pages for individuals and small businesses  
+💁‍♀️ I'm a User Experience Specialist with background in Architecture 
+♥️ Since 2016 I'm designing products and embracing human-centered design 
+👩‍💻 Reached for tech in 2021 
+
+
+🔭 I’m currently working on websites for entrepreneurs and businesses  
 🌱 I’m learning and leveling-up one day at a time  
-🤓 I'm experienced in design and React  
+🤓 I'm experienced in Product Design and React  
 👀 I’m looking to collaborate on Mobile and Web Applications  
-💪 I'm curious and determined to become a Fullstack Developer  
+💪 I'm curious to work on your project
 📫 Contact me: rossowka@icloud.com  
 
-I've spent 2+ years working in architecture creating technical documentation, designing products and embracing human-centered design 👩‍💻
-
-Enjoy checking out my recent projects 😉
+Enjoy checking out my projects 😉
