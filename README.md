@@ -2,9 +2,9 @@
 
 Welcome to my page!
 
-💁‍♀️ I'm a User Experience Specialist with background in Architecture 
-♥️ Since 2016 I'm designing products and embracing human-centered design 
-👩‍💻 Reached for tech in 2021 
+💁‍♀️ I'm a User Experience Specialist with background in Architecture  
+♥️ Since 2016 I'm designing products and embracing human-centered design  
+👩‍💻 Reached for tech in 2021  
 
 
 🔭 I’m currently working on websites for entrepreneurs and businesses  
