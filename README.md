@@ -1,4 +1,5 @@
-# I work at the intersection of research, design and development. What I like to call - the sweet spot of UX.
+# Strategic design partner  
+## I work at the intersection of research, design and development. <br />What I like to call - the sweet spot of UX
 
 Welcome to my page!
 
