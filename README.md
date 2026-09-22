@@ -3,6 +3,7 @@
 Welcome to my page!
 
 💁‍♀️ I'm a User Experience Specialist with background in Architecture  
+🧐 I make sure we are building the right thing  
 ♥️ I'm designing things and embracing human-centered design since 2016  
 👩‍💻 Reached for tech in 2021  
 
